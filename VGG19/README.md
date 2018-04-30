@@ -1,5 +1,8 @@
 # VGG19
 
+vgg19.mat檔案過大不想上傳github
+下載:http://www.vlfeat.org/matconvnet/pretrained/
+
 ## 原始圖片
 ./images/BenBi.jpg    
 ![image](https://github.com/TrunkingW/Deep_Learning/blob/master/VGG19/images/BenBi.jpg)

@@ -10,6 +10,7 @@
 ## 階段圖片差異
 共1000個階段    
 <br />
+<br />
 0/1000    
 ![image](https://github.com/TrunkingW/Deep_Learning/blob/master/VGG19/output_1/0.png)
 
